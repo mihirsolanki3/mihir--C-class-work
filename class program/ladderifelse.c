@@ -34,7 +34,7 @@ void main()
 	{
 		printf("\nGrade B");
 	}
-	else if(per > 40)
+	else if(per > 35)
 	{
 		printf("\n Grade C");
 	}
