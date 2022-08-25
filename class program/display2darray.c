@@ -10,7 +10,7 @@ printf("\n=================Start Matrix 1 ==============================\n");
 	printf("\nAccept Matrix1 Elements : \n");
 	for(i=0;i<3;i++)
 	{
-		for(j=0;j<3;j++)
+		for(j=0;j<3;j++) 
 		{
 			printf("Enter Element[%d][%d] : ",i,j);
 			scanf("%d",&matr1[i][j]);
